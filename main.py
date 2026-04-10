@@ -1,7 +1,7 @@
 from pathlib import Path
 import time
 import pyjokes
-import pandas as pd
+#import pandas as pd
 from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, TextColumn
 
@@ -58,3 +58,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
